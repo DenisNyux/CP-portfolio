@@ -4,18 +4,18 @@
 
 Структура экосистемы веб-языков и технологий
 
-[Транспиляция](/babab)
+[Настройка транспилятора babel](/babab)
 
-[import/export](/ecmab)
+[Подключение поддержки import/export синтаксиса](/ecmab)
 
 ### Тема 2
 
 Создание простого веб-сервера на основе Node.js
 
-[http + moment](/http_moment)
+[Сервер на http и moment исходный код](/http_moment)
 
-[http + moment, на heroku](https://moment-task.herokuapp.com/)
+[Тот же самый сервер, но размещенный на heroku](https://moment-task.herokuapp.com/)
 
 ### Тема 3
 
-[Извлечение данных на кодакторе](https://kodaktor.ru/0983c0a)
+[Извлечение данных при помощи fetch. Сделано на учебном сайте кодактор](https://kodaktor.ru/0983c0a)
